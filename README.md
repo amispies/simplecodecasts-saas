@@ -2,7 +2,7 @@
 
 Coder Manual Project Application
 Subscription based web application
-http://codermanula.com
+http://codermanual.com
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
